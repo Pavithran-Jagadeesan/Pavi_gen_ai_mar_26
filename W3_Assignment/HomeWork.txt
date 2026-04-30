@@ -1,0 +1,4 @@
+*Home Assignment*
+Implement playwright/typescript with vibe coding
+
+Note.AI Extension should be able to produce code in playwright/typescript combination.
